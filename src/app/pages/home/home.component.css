@@ -1,0 +1,17 @@
+.box{
+    width:50%;
+    border: 1px solid black;
+    border-radius: 30px;
+    padding:40px;
+    margin-left: 300px;
+    color: rgb(90, 59, 19) ;
+    height:500px;
+    overflow:scroll;
+    margin-top:50px;
+    font-style: inherit;
+    font-size:medium;
+    background-image:url('https://marketplace.canva.com/EAFKmk8ad1Q/1/0/900w/canva-beige-and-green-aesthetic-boho-watercolor-leaves-phone-wallpaper-qmYKeK8cth8.jpg');
+    background-repeat: no-repeat;
+   
+}
+
